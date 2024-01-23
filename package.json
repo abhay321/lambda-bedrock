@@ -1,0 +1,14 @@
+{
+  "name": "lambda-bedrock",
+  "version": "1.0.0",
+  "description": "There are lots of ways to incorporate AI tools into your web application! Lambda bedrock demo code snipped.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qluless_coders",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.484.0"
+  }
+}
